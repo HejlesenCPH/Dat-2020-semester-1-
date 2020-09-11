@@ -4,8 +4,7 @@
  Once the number is half of the input value, print "HALF!"
  */
 
-/*too jesper, the sketch underneath wont work, i've tried difrent setups and enther it prints all the numbers and put ind half between the numbers where there's half number. 
-i'll follow the class today and see how other did. 
+// do not work// ;(
 
 */
 void setup() {
