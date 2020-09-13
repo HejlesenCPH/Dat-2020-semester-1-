@@ -1,8 +1,8 @@
 void setup() {
-  int b = 12;
-  int a = 0; 
+  int b = 7;
+  int a = 2; 
 
-  if (b >= 10) {
+  if (a + b == 10) {
     print("Success");
   } else {
     println("Failure");
